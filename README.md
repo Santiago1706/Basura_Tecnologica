@@ -125,7 +125,7 @@
 
     <section id="descripcion">
         <h2>Investigador Principal</h2>
-        <p>TEXTO DE LA CONCLUSIÓN </p>
+        <p>La basura tecnológica o e-waste, se refiere a los dispositivos electrónicos desechados, como teléfonos, computadoras y electrodomésticos, que ya no son útiles o están obsoletos. Estos residuos contienen materiales peligrosos y metales valiosos, lo que requiere un manejo adecuado para evitar daños ambientales y aprovechar sus componentes reciclables. </p>
     </section>
 
     <section id="funcionamiento">
